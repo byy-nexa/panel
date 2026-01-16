@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'site_title' => 'Reviactyl',
-    'site_description' => 'Our official control panel made better with Reviactyl.',
+    'site_title' => 'ZyroXpanel',
+    'site_description' => 'Our official control panel made better with ZyroXpanel.',
     'site_image' => '/reviactyl/logo.png',
     'site_favicon' => '/reviactyl/icon.png',
     'site_color' => '#3b82f6',
@@ -31,13 +31,13 @@ return [
     'fontFamily' => 'Poppins',
 
     'customCopyright' => true,
-    'copyright' => 'Powered by [Reviactyl](https://reviactyl.dev/)',
+    'copyright' => 'Powered by [ZyroXpanel](https://t.me/ZyroxVoid)',
 
     'isUnderMaintenance' => false,
     'maintenance' => 'We are currently under maintenance. Kindly check back later!',
 
     'alertType' => 'info',
-    'alertMessage' => '**Welcome to Reviactyl!** You can modify Theme Look & Feel using [Designify](/admin/designify) at the administration area.',
+    'alertMessage' => '**Welcome to ZyroXpanel!** You can modify Theme Look & Feel using [Designify](/admin/designify) at the administration area.',
 
     'statusCardLink' => '',
     'supportCardLink' => '',
